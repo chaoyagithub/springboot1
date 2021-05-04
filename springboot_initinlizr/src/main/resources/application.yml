@@ -1,0 +1,6 @@
+logging:
+  level:
+    com:
+      study: trace
+  file:
+    name: yu.log
